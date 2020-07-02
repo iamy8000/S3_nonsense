@@ -17,7 +17,7 @@
 
 ```
 //將專案複製到電腦中
-$ git clone https://github.com/iamy8000/S3_nonsense.git
+$ git clone https://github.com/iamy8000/S3_nonsense_generator.git
 
 //進入專案資料夾
 $ cd w2_talkingShit
